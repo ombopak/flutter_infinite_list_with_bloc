@@ -13,8 +13,8 @@ Key Topics
     
     The application uses a feature-driven directory structure.
     This project structure enables us to scale the project by having self-contained features.
-    In this example we will only have a single feature (the post feature) and it's split up into respective folders with barrel files,
-    indicated by the asterisk (*).
+    In this example we will only have a single feature (the post feature)
+    and it's split up into respective folders with barrel files, indicated by the asterisk (*).
 
 A new Flutter project.
 
